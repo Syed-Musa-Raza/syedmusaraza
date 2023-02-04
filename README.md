@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Musa Raza</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmusaraza&label=Profile%20views&color=0e75b6&style=flat" alt="syedmusaraza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedmusaraza" alt="syedmusaraza" /></a> </p>
