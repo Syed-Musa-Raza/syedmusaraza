@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **syedmusaraza420@gnail.com**
+- 📫 How to reach me **syedmusaraza420@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
